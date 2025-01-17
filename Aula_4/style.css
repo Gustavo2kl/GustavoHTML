@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+:root{
+    --cor_5: #F22E3E;
+    --cor_2: #590202;
+    --cor_4: #F22727;
+    --cor_3: #F2F2F2;
+    --cor_1: #0D0D0D;
+}
+
+p{
+    font-family: "Oswald", serif;
+}
+
+h1{
+    font-family: "Oswald";
+    text-align: center;
+   text-shadow: 3px -2px 3px var(--cor_3);
+    color: var(--cor_2);
+}
+
+h2{
+    font-family: "Oswald";
+    text-align: center;
+    text-shadow: 1
+    color: var(--cor_3);
+}
+
+h3{
+    font-family: "Oswald";
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(
+        360deg, var(--cor_2), var(--cor_3), var(--cor_4), var(--cor_5))
+}
