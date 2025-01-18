@@ -1,0 +1,85 @@
+:root {
+    --cor1: #F2E641;
+    --cor2: #F29441;
+    --cor3: #F28241;
+    --cor4: #732002;
+    --cor5: #1B3F56;
+}
+
+
+h1{
+    
+    color: white;
+    text-align: center;
+    margin: 30px 30px 30px 30px;
+    padding: 40px;
+
+}
+
+
+body{ 
+   height: 100%;
+   
+   
+    background-image: linear-gradient(0deg, var(--cor1), var(--cor2), var(--cor3), var(--cor4));
+}
+
+h1{ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+a{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+.Titulo{
+    text-shadow: 10px 10px 10px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.subtitulo-1{
+    text-shadow: 10px 10px 10px black;
+    text-align: center;
+    color: white;
+}
+
+.titulo-3{
+    text-shadow: 10px 10px 10px black;
+    text-align: center;
+    color: white;
+}
+
+.subtitulo-2{
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+    color: white;
+}
+
+.subtitulo-3{
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+    color: white;
+}
+  
