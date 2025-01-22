@@ -1,0 +1,105 @@
+:root {
+    --cor_1: #888C65;
+    --cor_2: #F2F2F2;
+    --cor_3: #BFB6AE;
+    --cor_4: #736963;
+    --cor_5: #0D0D0D;
+
+
+}
+
+.corpo {
+    background-image: linear-gradient(80deg, var(--cor_1), var(--cor_2), var(--cor_3), var(--cor_4), var(--cor_5));
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: #888C65;
+    margin: auto;
+    margin-block: 16px;
+    border-radius: 10px;
+    width: 95%;
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    padding-inline: 30px;
+    background-color: #000000;
+}
+
+.nav-ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+h1{
+    color: white;
+    text-shadow: 6px -4px 9px white;
+    
+}
+
+a{
+    color: white;
+}
+
+.mim{
+    text-align: center;
+    border: 1px, solid, black;
+}
+
+section{
+    margin: 0px;
+}
+
+.habi{
+    text-align: center;
+    border: 1px, solid, black;
+}
+
+.projetos{
+    text-align: center;
+    border: 1px, solid, black;   
+}
+
+footer{
+    justify-content: end;
+    border: 1px solid #0D0D0D;
+    padding: 20px;
+    background-color: #0D0D0D;
+    color: white;
+}
+
+.foto{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+
+.caixa-projetos{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.caixa-habi{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sobre-mim{
+    border: 1px solid white;
+}
+    
+.Habilidades{
+    border: 1px solid white;
+}
+
+.Projetos{
+    border: 1px solid white;
+}
+
