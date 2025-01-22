@@ -1,0 +1,53 @@
+div{
+
+    display: flex; 
+    flex-direction: row-reverse;  
+    justify-content: center;
+}
+
+.Lista_links{
+    gap: 20px;
+    list-style: none;
+    display: flex;
+    align-items: end;
+    justify-content
+}
+
+h1{
+    text-align: center;
+color: white;
+}
+
+.corpo{
+    background-image: linear-gradient(0deg, var(--roxo_1), var(--roxo_2), var(--roxo_3), var(--roxo_4), var(--roxo_5));
+}
+    
+
+a{
+    color: white;
+}
+h2{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+
+
+:root{
+        --roxo_1:  #342240;
+        --roxo_2: #493159;
+        --roxo_3: #77588C;
+        --roxo_4: #7F3FBF;
+        --roxo_5: #713CA6;
+}
+
+
+
+    
